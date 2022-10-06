@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="#352E2E"
+    android:layout_height="match_parent"
+    tools:context=".ThirdActivity">
+
+    <Button
+        android:id="@+id/button31"
+        android:layout_width="195dp"
+        android:layout_height="69dp"
+        android:layout_alignParentStart="true"
+        android:layout_marginStart="3dp"
+        android:text="left" />
+
+    <Button
+        android:id="@+id/button32"
+        android:layout_width="195dp"
+        android:layout_height="69dp"
+        android:layout_alignParentEnd="true"
+        android:layout_marginEnd="3dp"
+        android:text="right" />
+
+    <Button
+        android:id="@+id/button33"
+        android:layout_width="match_parent"
+        android:layout_height="69dp"
+        android:layout_alignParentBottom="true"
+        android:text="return" />
+
+
+    <Button
+        android:id="@+id/button36"
+        android:layout_width="120dp"
+        android:layout_height="70dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="335dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="335dp"
+        android:text="Center_left"
+        android:textSize="10sp" />
+
+    <Button
+        android:id="@+id/button37"
+        android:layout_width="70dp"
+        android:layout_height="70dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="335dp"
+        android:layout_marginEnd="171dp"
+        android:layout_marginBottom="335dp"
+        android:text="center"
+        android:textSize="8sp" />
+
+    <Button
+        android:id="@+id/button38"
+        android:layout_width="120dp"
+        android:layout_height="70dp"
+
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_marginStart="10dp"
+        android:layout_marginTop="335dp"
+        android:layout_marginEnd="264dp"
+        android:layout_marginBottom="335dp"
+        android:text="Center_right"
+        android:textSize="10sp" />
+
+
+</RelativeLayout>
