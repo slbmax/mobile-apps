@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ListView</string>
+    <string-array name="array_technology">
+        <item>Академмістечко</item>
+        <item>Житомирська</item>
+        <item>Святошин</item>
+        <item>Нивки</item>
+        <item>Берестейська</item>
+        <item>Шулявська</item>
+        <item>Політехнічний інститут</item>
+        <item>Вокзальна</item>
+        <item>Університет</item>
+        <item>Театральна</item>
+        <item>Хрещатик</item>
+        <item>Арсенальна</item>
+        <item>Дніпро</item>
+        <item>Гідропарк</item>
+        <item>Лівобережна</item>
+        <item>Дарниця</item>
+        <item>Чернігівська</item>
+        <item>Лісова</item>
+    </string-array>
+</resources>
